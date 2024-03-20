@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @PurvaInamdar
-- 👀 Currently i am in Singapore on dependent visa 
-- 🌱 I have 5+ years of experience in Oracle dba , aws and DevOps.
-- 💞️ Please let me know if there is any job openings.
+
